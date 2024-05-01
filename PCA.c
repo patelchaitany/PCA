@@ -1,8 +1,8 @@
 //--------------PCA IMPLEMENTATION----------------
 // Project Members:
-// 1. Patel Maurya(202251091)
-// 2. Patel Chaitany(202251089)
-// 3. Het Lathiya(202251054)
+// 1. Patel Maurya
+// 2. Patel Chaitany
+// 3. Het Lathiya
 
 //------ This Program Takes input as Following-------
 // 1. input.txt file containing the data points
